@@ -16,5 +16,11 @@ El uso de información confiable y actualizada es de gran valor para la toma dec
 
 Dentro de este repositorio se encuentras las diferentes entregables de la metodologia CRISP_DM con la cual se esta trabajando duerante el desarrollo del proyecto.
 
+## Etapa 1
 - Dentro de la carpeta Etapa1_Business_Understanding, se podra acceder a la documentación de la etapa de Business Understanding.
+    Nota: Para poder acceder a los hipervinculos que llevan a otros documentos, se tiene que descargar el documento. 
+
+
+## Etapa 2
+- Dentro de la carpeta Etapa2_Data_Understanding, se podra acceder a la documentación de la etapa de Data Understanding.
     Nota: Para poder acceder a los hipervinculos que llevan a otros documentos, se tiene que descargar el documento. 
