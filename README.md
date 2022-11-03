@@ -14,7 +14,7 @@ Se busca tomar decisiones dentro del *Sistema de Transporte Urbano* en la ciudad
 
 ---
 
-Dentro de este repositorio se encuentras los diferentes entregables de la metodologia CRISP_DM, con la cual se esta trabajando duerante el desarrollo del proyecto.
+Dentro de este repositorio se encuentran los diferentes entregables de la metodologia CRISP_DM, con la cual se esta trabajando duerante el desarrollo del proyecto.
 
 ## Etapa 1
 - Dentro de la carpeta Etapa1_Business_Understanding, se podra acceder a la documentación de la etapa de Business Understanding.
