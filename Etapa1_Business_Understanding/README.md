@@ -4,3 +4,5 @@ En caso de que se desee ver las modificaciones posteriores al plan de trabajo, s
 > https://docs.google.com/spreadsheets/d/1lG7bd_ANVOsIRTXeVAkG5TtQg39vn3nm/edit?usp=sharing&ouid=114926445691652554136&rtpof=true&sd=true
 
 *Importante:* Para poder acceder a los hipervinculos del documento es necesario descargarlo.
+
+¡Gracias!
