@@ -26,5 +26,9 @@ Dentro de este repositorio se encuentran los diferentes entregables de la metodo
 - Dentro de la carpeta Etapa2_Data_Understanding, se podra acceder a la documentación de la etapa de Data Understanding.
 
 
+## Privacidad y Seguridad
+- Dentro de la carpeta Privacidad_Y_Seguridad, se podra acceder a la documentación relacionada con la privacidad y seguridad en el tratamiento del dataset.
+
+
 ## Etapa 3
 - Dentro de la carpeta Etapa3_Data_Peparation, se podra acceder a la documentación de la etapa de Data Preparation.
