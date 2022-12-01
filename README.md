@@ -31,7 +31,15 @@ Dentro de este repositorio se encuentran los diferentes entregables de la metodo
 
 
 ## Etapa 4
-- Dentro de la carpeta Etapa4_Modeling, se podra acceder a la documentación de la etapa de Data Preparation.
+- Dentro de la carpeta Etapa4_Modeling, se podra acceder a la documentación de la etapa de Modeling.
+
+
+## Etapa 5
+- Dentro de la carpeta Etapa5_Evaluation, se podra acceder a la documentación de la etapa de Evaluation.
+
+
+## Etapa 6
+- Dentro de la carpeta Etapa6_Deployment, se podra acceder a la documentación de la etapa de Deployment.
 
 
 ## Privacidad y Seguridad
